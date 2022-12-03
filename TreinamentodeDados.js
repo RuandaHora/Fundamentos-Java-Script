@@ -7,7 +7,8 @@
     let frete = 100.0;
     let PrecoFinal = (Preco+Taxa+frete);
 
-                {console.log(Produto);
+                {console.log(Cliente);
+                console.log(Produto);
                 console.log(Preco);
                 console.log(Taxa);
                 console.log(frete)
@@ -28,7 +29,8 @@
     let frete = 140.0
     let PrecoFinal = (frete+Valor)
 
-                {console.log(Produto)
+                {console.log(Cliente)
+                console.log(Produto)
                 console.log(Valor)
                 console.log(frete)
                 console.log("PreçoFinal: ") 
@@ -42,14 +44,15 @@
  
 }
 { 
-    var cliemte = "André Silveira"
+    var Cliente = "André Silveira"
     var Produto = "Korg Kronos";
     var Preco = 10000.0;
     var frete = 200;
     var taxacaoAduaneira = 900;
     var PrecoFinal = (Preco+frete+taxacaoAduaneira);
 
-                {console.log(Produto);
+                {console.log(Cliente);
+                console.log(Produto);
                 console.log(Preco);
                 console.log(frete);
                 console.log(taxacaoAduaneira);
@@ -61,8 +64,7 @@
 
                 {console.log(Cidade)
                 console.log(Endereco)
-                console.log(Numero)
-                }
+                console.log(Numero)}
                 
 
 }
