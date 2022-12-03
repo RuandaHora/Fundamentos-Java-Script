@@ -68,3 +68,27 @@
                 
 
 }
+{
+var Cliente = "Paulo Cerino"
+var Produto = "Sax-Yamaha"
+var Valor = 4700
+var frete = 57
+var valorfinal = (Valor+frete);
+      
+ 
+        {console.log(Cliente)
+         console.log(Produto)
+         console.log(Valor)
+         console.log(frete)
+         console.log(valorfinal)}
+
+
+        var Cidade = "Sao Paulo "
+        var Endereco = "rua. Cachias do norte "
+        var numero = "34 D "
+
+        {console.log(Cidade)
+        console.log(Endereco)
+        console.log(numero)}
+
+}
