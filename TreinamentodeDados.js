@@ -92,3 +92,25 @@ var valorfinal = (Valor+frete);
         console.log(numero)}
 
 }
+{ 
+    let Cliente = "Renan Santos"
+    let produto = "Trompete Yamaha"
+    let Preco = 7000
+    let taxacaoAduaneira = 1130
+    let frete = 130
+
+        console.log(Cliente)
+        console.log(produto)
+        console.log(Preco)
+        console.log(taxacaoAduaneira)
+        console.log(frete)
+
+    var Cidade= "Sao paulo"
+    var Endereco= "Rua. Gilberto guimaraes"
+    var Numero = "2A"
+    
+    console.log(Cidade)
+    console.log(Endereco)
+    console.log(Numero)
+
+}
