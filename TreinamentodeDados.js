@@ -126,6 +126,7 @@ var valorfinal = (Valor+frete);
      let SaxYamaha= 4700.0;
      let TrompeteYamaha= 7000.0;
      let ViolinoStradvarius= 47000.0
+     const donoDoFornecedor= "Ruan da Hora "
 
      console.log("Fornecedor: "+ fornecedor1);
      console.log(NordElectro6D);
@@ -135,4 +136,8 @@ var valorfinal = (Valor+frete);
      console.log(SaxYamaha);
      console.log(TrompeteYamaha);
      console.log(ViolinoStradvarius)
+     console.log(" ")
+     console.log(donoDoFornecedor)
+     console.log(" ")
+
 }
