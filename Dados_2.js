@@ -18,4 +18,6 @@ let categoria="Papelaria";
 console.log("Categoria: "+ categoria 
 + ", Nome: "+ nome
 + " ,Preço: "+ preco
-+ " ,Desconto: "+ desconto)}
++ " ,Desconto: "+ desconto)} 
+
+
