@@ -25,7 +25,7 @@
 {
     let Cliente = "Ruan da Hora"
     let Produto = "Nord Stage 3"
-    let Valor = 16000.0
+    let Valor = 24000.0
     let frete = 140.0
     let PrecoFinal = (frete+Valor)
 
@@ -93,24 +93,44 @@ var valorfinal = (Valor+frete);
 
 }
 { 
-    let Cliente = "Renan Santos"
-    let produto = "Trompete Yamaha"
-    let Preco = 7000
-    let taxacaoAduaneira = 1130
-    let frete = 130
+    let Cliente = "Renan Santos";
+    let produto = "Trompete Yamaha";
+    let Preco = 7000;
+    let taxacaoAduaneira = 1130;
+    let frete = 130;
 
-        console.log(Cliente)
-        console.log(produto)
-        console.log(Preco)
-        console.log(taxacaoAduaneira)
-        console.log(frete)
+        console.log(Cliente);
+        console.log(produto);
+        console.log(Preco);
+        console.log(taxacaoAduaneira);
+        console.log(frete);
 
-    var Cidade= "Sao paulo"
-    var Endereco= "Rua. Gilberto guimaraes"
-    var Numero = "2A"
+    var Cidade= "Sao paulo";
+    var Endereco= "Rua. Gilberto guimaraes";
+    var Numero = "2A";
     
-    console.log(Cidade)
-    console.log(Endereco)
-    console.log(Numero)
+    console.log(Cidade);
+    console.log(Endereco);
+    console.log(Numero);
+}
+             console.log(" ");  // Espaço entre linhas
+             console.log("Dados e Preços do Fornecedor: ");
+             console.log(" ");
+{
+    const fornecedor1= "Lojas da Hora ";
+    const Localização= "Rua dos pinheiros, SP ";
+     let NordElectro6D= 16000.0;
+     let NordStage3= 24000.0;
+     let MotifXF7= 14500.0;
+     let KorgKronos= 10000.0;
+     let SaxYamaha= 4700.0;
+     let TrompeteYamaha= 7000.0;
 
+     console.log("Fornecedor: "+ fornecedor1);
+     console.log(NordElectro6D);
+     console.log(NordStage3);
+     console.log(MotifXF7);
+     console.log(KorgKronos);
+     console.log(SaxYamaha);
+     console.log(TrompeteYamaha);
 }
