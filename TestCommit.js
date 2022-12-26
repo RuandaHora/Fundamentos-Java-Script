@@ -14,4 +14,7 @@ console.log("Tabela de preços: ")
 console.log()
 console.log("Camisa do Brasil: R$ " + Brasil);
 console.log("Camisa da Espanha: R$ " + Espanha + "      NO CALOTEIROS");
-console.log("Camisa da Argentina: R$ " + Argentina)
+console.log("Camisa da Argentina: R$ " + Argentina);
+
+
+console.log("E mais um teste de commit");
