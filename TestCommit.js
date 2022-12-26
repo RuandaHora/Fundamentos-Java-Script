@@ -18,3 +18,5 @@ console.log("Camisa da Argentina: R$ " + Argentina);
 
 
 console.log("E mais um teste de commit");
+
+console.log("Bom, funcionou!Mas vamos ver kkkk");
